@@ -1,0 +1,5 @@
+#ignore files which have no extention( gcc generated executable )
+*
+!/**/
+!*.*
+
